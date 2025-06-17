@@ -1,0 +1,21 @@
+emp_id,name,age,department_id,hire_date,manager_id
+101,Alice Johnson,48,1,2015-04-13,108
+102,Bob Smith,29,2,2017-07-03,103
+103,Charlie Green,38,1,2021-08-15,101
+104,Diana White,31,1,2016-01-19,107
+105,Edward Black,31,1,2021-04-17,120
+106,Fiona Blue,39,4,2017-06-21,118
+107,George Red,49,3,2015-01-27,105
+108,Helen Yellow,33,4,2018-10-25,104
+109,Isabella Brown,28,2,2018-10-10,102
+110,Jason Grey,36,4,2016-02-01,111
+111,Karen Orange,48,3,2015-06-27,114
+112,Leo Violet,27,1,2019-03-31,117
+113,Mona Cyan,44,3,2022-01-18,111
+114,Nathan Silver,27,2,2022-11-25,101
+115,Olivia Gold,27,2,2018-03-31,107
+116,Peter Indigo,33,1,2019-04-06,114
+117,Quinn Teal,36,3,2016-10-28,111
+118,Rachel Lime,33,2,2022-07-08,120
+119,Steve Coral,45,1,2021-10-31,105
+120,Tina Magenta,39,2,2016-10-31,112
