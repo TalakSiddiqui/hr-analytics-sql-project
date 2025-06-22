@@ -1,4 +1,4 @@
-                                                                                                 ( 10 HR Analytics SQL Questions )Add commentMore actions
+                                                                                    10 HR Analytics SQL Questions 
                                                             
 ---QUERY 1) For each department, list the department name and total number of employees.
                                                              
