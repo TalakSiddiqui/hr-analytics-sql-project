@@ -6,7 +6,8 @@ This SQL project analyzes employee, salary, department, and performance data for
 
 The project focuses on solving real-world business questions using SQL joins, aggregations, window functions, and subqueries.
 
----
+![Uploading sql image hr.png…]()
+
 
 ## 🗃️ Dataset Description
 
