@@ -4,9 +4,9 @@
 
 This SQL project analyzes employee, salary, department, and performance data for a fictional company. It provides insights to help HR professionals make data-driven decisions on workforce planning, compensation, and performance management.
 
-The project focuses on solving real-world business questions using SQL joins, aggregations, window functions, and subqueries.
+The project solves real-world business questions using SQL joins, aggregations, window functions, and subqueries.
 
-![Uploading sql image hr.png…]()
+<img width="738" height="258" alt="image" src="https://github.com/user-attachments/assets/049fb12c-3f55-4aeb-b7a1-653d63b32027" />
 
 
 ## 🗃️ Dataset Description
