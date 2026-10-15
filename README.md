@@ -57,7 +57,8 @@ The project uses four relational tables:
 
 ---
 
-## 🧠 Key Learnings
+## 🧠 Key Learnings   <img width="515" height="388" alt="image" src="https://github.com/user-attachments/assets/e9b809a0-41fd-4958-a5df-e379c9750efd" />
+
 
 Through this HR Analytics SQL project, I gained hands-on experience with:
 
